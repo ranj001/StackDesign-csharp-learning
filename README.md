@@ -1,6 +1,6 @@
 # StackDesign (C#/.NET 8)
 
-A C# educational repository focused on learning and demonstrating object-oriented programming concepts, especially inheritance, using a dynamic stack implementation. Built with .NET 8 and C# 12, this project provides a simple stack class with core operations and is designed for hands-on exploration of class design and extension.
+This repository is an educational exercise created as a step in learning C#, with a special focus on understanding inheritance. It features a dynamic stack implementation and example usage, designed to help learners practice object-oriented programming concepts in C#.
 
 ### Features
 •	Dynamic stack with automatic resizing
@@ -13,4 +13,4 @@ A C# educational repository focused on learning and demonstrating object-oriente
 
 
 ### Educational Purpose
-This repository is intended for students and developers who want to understand how inheritance works in C#. The Stacks class can be extended to add new behaviors or override existing ones, making it a practical starting point for experimenting with class hierarchies.
+This project is intended for those learning C#. It provides hands-on experience with class design, inheritance, and basic data structures as part of a step-by-step learning process.
